@@ -1,0 +1,4 @@
+venv/
+.env
+LLM-chat-with-data/
+__pycache__/
