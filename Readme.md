@@ -49,7 +49,9 @@ Similar to `app.py`, this file contains the application logic. It is a useful re
    ```bash
    pip install streamlit PyPDF2 langchain
 
-2. streamlit run app.py
+2. Create .env file and provide openai api key and huggingface hub api key in .env file. Refer to .env.example file.
+
+3. streamlit run app.py
     ```bash
     streamlit run app.py
 
